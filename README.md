@@ -1,1 +1,1 @@
-# Summer_2024_Projects
+# Summer-2024-Projects
