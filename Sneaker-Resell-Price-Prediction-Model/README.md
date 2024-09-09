@@ -53,4 +53,4 @@ This project includes:
 
 ## Results
 
-- The model achieved a precision score of 0.99 for the "High" ROI category, indicating high accuracy in predicting sneakers with high ROI.
+- The model achieved a precision score of 0.93 for the "High" ROI category, indicating high accuracy in predicting sneakers with high ROI.
